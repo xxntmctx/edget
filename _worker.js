@@ -4558,7 +4558,7 @@ async function nginx() {
 	working. Further configuration is required.</p>
 	
 	<p>For online documentation and support please refer to
-	<a href="http://nginx.org/">nginx.org</a>.<br/>
+	<a href="http://nginx.org">nginx.org</a>.<br/>
 	Commercial support is available at
 	<a href="http://nginx.com/">nginx.com</a>.</p>
 	
@@ -4568,3 +4568,4 @@ async function nginx() {
 	`
     return text;
 }
+
